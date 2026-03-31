@@ -26,7 +26,8 @@
 >
 > - Kindly submit the Live Application URL (Domain) : https://meeko-song-player.web.app/
 >
-> - Kindly submit the GitHub Pages (Documentation) URL: https://github.com/Harikarthick28/meeko_web_app/blob/main/README.md
+> - Kindly submit the GitHub Pages (Documentation) URL: https://harikarthick28.github.io/meeko_web_app/
+> - 
 
 # 4 Linkedin Post
 > Submit the LinkedIn post URL
